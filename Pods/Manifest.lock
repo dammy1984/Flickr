@@ -1,0 +1,30 @@
+PODS:
+  - Alamofire (5.0.0)
+  - MBProgressHUD (1.2.0)
+  - SDWebImage (5.5.2):
+    - SDWebImage/Core (= 5.5.2)
+  - SDWebImage/Core (5.5.2)
+  - SwiftLint (0.39.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0)
+  - MBProgressHUD (~> 1.2.0)
+  - SDWebImage (~> 5.0)
+  - SwiftLint
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - MBProgressHUD
+    - SDWebImage
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  Alamofire: 58ff2bfb8daaacaa233d5c36e37b10a5248f59b1
+  MBProgressHUD: 3ee5efcc380f6a79a7cc9b363dd669c5e1ae7406
+  SDWebImage: 4d5c027c935438f341ed33dbac53ff9f479922ca
+  SwiftLint: 55e96a4a4d537d4a3156859fc1c54bd24851a046
+
+PODFILE CHECKSUM: f8384ed3b0b469e008be95887f6e4369a282ea8e
+
+COCOAPODS: 1.8.4
